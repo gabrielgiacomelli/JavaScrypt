@@ -1,11 +1,29 @@
 button{
-    padding: 100px;
+    padding: 50px;
     border-radius:25% ;
     color: rgb(44, 7, 255);
     font-size: 50px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: cornflowerblue;
+    border-color: black;
+    text-align: center;
+    margin: 20px;
 }
 body{
     background-color: rgb(176, 253, 253);
+    margin: 0px;
+    padding: 0px;
 }
+header{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    background-color: blue;
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+ 
+}
+.flex{
+display: inline-block;}
 
