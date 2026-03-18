@@ -10,7 +10,7 @@ button{
     margin: 20px;
 }
 body{
-    background-color: rgb(176, 253, 253);
+    background-color: rgb(255, 255, 255);
     margin: 0px;
     padding: 0px;
 }
@@ -20,10 +20,18 @@ header{
     font-size: 50px;
     background-color: blue;
     color: white;
-    padding-bottom: 20px;
-    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-top: 40px;
  
 }
 .flex{
 display: inline-block;}
 
+.yo{
+    background-color: rgb(151, 252, 218);
+    border-color: black;
+    display: inline;
+    padding-bottom: 200px;
+    padding-top: 100px;
+    margin: 20px;
+}
