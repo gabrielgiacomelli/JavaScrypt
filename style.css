@@ -1,13 +1,6 @@
 button{
-    padding: 50px;
-    border-radius:25% ;
-    color: rgb(44, 7, 255);
-    font-size: 50px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: cornflowerblue;
-    border-color: black;
-    text-align: center;
-    margin: 20px;
+    padding: 10px;
+    margin: 10px;
 }
 body{
     background-color: rgb(255, 255, 255);
@@ -24,14 +17,5 @@ header{
     padding-top: 40px;
  
 }
-.flex{
-display: inline-block;}
 
-.yo{
-    background-color: rgb(151, 252, 218);
-    border-color: black;
-    display: inline;
-    padding-bottom: 200px;
-    padding-top: 100px;
-    margin: 20px;
-}
+
