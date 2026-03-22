@@ -1,7 +1,8 @@
 function Vetor(){
-const numeros = [5, 2, 10, 1, 8];
-// Ordena decrescente: b - a
-numeros.sort((a, b) => b - a);
-console.log(numeros); // [10, 8, 5, 2, 1]    
+     let numeros = [];
+     for (let i = 1; i < 5; i++){
+     numeros.push(Number(prompt("Informe o valor:" + i)));     }
+     numeros.sort((a, b) => b - a);
+     alert("Os números em ordem decrescente são: " + numeros.join(", "));
    
 }
