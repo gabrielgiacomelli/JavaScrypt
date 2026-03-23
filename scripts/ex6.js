@@ -1,4 +1,8 @@
-function LETRA(){
-    let letra = prompt("digite uma letra");
-    if ( letra == a,e,i,o,u)
+function LETRA() {
+    let letra = prompt("Digite uma letra");
+     if (letra == "a" || letra == "e" || letra == "i" || letra == "o" || letra == "u") {
+        alert("Sua letra é uma vogal");
+    } else {
+        alert("Sua letra é uma consoante");
+    }
 }
