@@ -13,7 +13,4 @@ function ordenacao(){
     }
 
     console.log("O número maior é: " + maior + ", o número menor é: "+ menor);
-
-
-
 }
