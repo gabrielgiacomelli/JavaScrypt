@@ -1,8 +1,5 @@
 function inteiro() {
     let numero = parseInt(prompt("Informe um número inteiro: "));
-    numero = numero.toLowerCase();
-
-
     if (numero % 2 === 0) {
         numero += 1; 
         console.log("O número era par e agora está ímpar: " + numero);
